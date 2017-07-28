@@ -2,10 +2,10 @@
 
 def main(msg):
 
-//print second comment
-// print a message
+//print no longer need comments
   
   print(msg)
->>>>>>> refs/remotes/origin/master
+def secondary():
+  print ("new fct")
 
 main ("hello people")
